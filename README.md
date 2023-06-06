@@ -1,2 +1,2 @@
-# arquivos-legais
-Aulas de git da DNC
+# Aulas de git da DNC
+Projetos e exercícios na prática
